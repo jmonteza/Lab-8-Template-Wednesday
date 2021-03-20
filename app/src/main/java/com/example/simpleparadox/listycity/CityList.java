@@ -81,5 +81,5 @@ public class CityList {
     /**
      * Delete all cities in the city list
      */
-    public void deleteAll(){ }
+    public void deleteAll(){ cities.clear(); }
 }
